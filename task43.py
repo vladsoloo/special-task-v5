@@ -1,4 +1,4 @@
-salaries = [50000, 60000, 45000, 70000, 55000] 
+salaries = [50000, 60000, 45000, 70000, 55000]
 
 
 total_salary = sum(salaries)
